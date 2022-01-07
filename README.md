@@ -6,4 +6,4 @@ I like exploring. I like the idea of trying something new every day.* 😈
 
 Need Help? Feel Free to Contact!
 <br>
-<a href="https://www.instagram.com/rht21/"><button type="button" class="btn btn-outline-light btn-sm"><i class="fa-brands fa-instagram"></i>Instagram</button></a>
+<a href="https://www.instagram.com/rht21/"><i class="fa-brands fa-instagram"></i></a>
