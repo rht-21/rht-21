@@ -8,6 +8,9 @@
       I like exploring. I like the idea of trying something new every day. 😈
    </em>
 </p>
+<p>
+   *Currently learning Web Development.
+</p>
 <strong>Need Help? Feel Free to Contact! </strong>😌
 <br>
 <a href="https://www.instagram.com/rht21/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-white" width = 100px></a>
