@@ -1,4 +1,4 @@
-<h1>👋 Heyaa!</h1>
+<h1><em>Heyaa!</em>👋</h1>
 
 <img align="right" src="https://media.giphy.com/media/fqypN5YvaPLpRRm2xU/giphy.gif" width="200px" alt="rht21_avatar">
 <p>
@@ -10,5 +10,5 @@
 </p>
 <strong>Need Help? Feel Free to Contact! </strong>😌
 <br>
-<a href="https://www.instagram.com/rht21/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-white"></a>
-<a href="https://twitter.com/iamrht21"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue"></a>
+<a href="https://www.instagram.com/rht21/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-white" width = 100px></a>
+<a href="https://twitter.com/iamrht21"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue" width = 74px></a>
