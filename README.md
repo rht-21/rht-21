@@ -7,7 +7,7 @@
       <br>
       I like exploring. I like the idea of trying something new every day. 😈
       <br>
-      ~Currently learning Web Development.
+      ~learning everyday.
    </em>
 </p>
 <strong>Need Help? Feel Free to Contact! </strong>😌
