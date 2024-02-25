@@ -1,16 +1,11 @@
-<h1><em>Heyaa!</em>👋</h1>
+# Rohit Mishra
 
-<img align="right" src="https://drive.google.com/uc?export=view&id=125YzDAbJT5jjDLe2PdXQ-J9U0ObZNFRg" width="150px" alt="rht21_avatar">
-<p>
-   <em>
-      I am a curious and generous person who is always learning and willing to share their knowledge, who loves experimenting with technology and learning new things.
-      <br>
-      I like exploring. I like the idea of trying something new every day. 😈
-      <br>
-      ~learning everyday.
-   </em>
-</p>
-<strong>Need Help? Feel Free to Contact! </strong>😌
-<br>
-<a href="https://www.instagram.com/rht21/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-white" width = 100px></a>
-<a href="https://twitter.com/iamrht21"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue" width = 74px></a>
+👋 Hello! Welcome to my GitHub profile!
+
+## About Me
+
+I'm Rohit Mishra, a passionate developer exploring new technologies.
+
+## Get in Touch
+
+💼 LinkedIn: [Connect](https://www.linkedin.com/in/rht21/)
