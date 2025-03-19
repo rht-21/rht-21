@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi, I'm Rohit, a Passionate Web Developer.<br><br>I'm currently working on my new portfolio. <br>Outside of work, you can find me watching football or vibing out to some great music.
+# Hi, I'm Rohit, a Passionate Web Developer.
+
+I'm currently working on my new <a href="http://rht21.xyz" target="_blank">portfolio</a>. <br>Outside of work, you can find me watching football or vibing out to some great music.
 
 
 ## 🌐 Socials:
