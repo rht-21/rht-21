@@ -1,4 +1,4 @@
-<h1 align="center">hey, I'm Rohit 👋</h1>
+<h1 align="center">Hey, I'm Rohit 👋</h1>
 
 <p align="center">
   <b>AI/ML Engineer</b> · New Delhi 🇮🇳 · <i>AI at work, UI at heart.</i>
